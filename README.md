@@ -11,7 +11,7 @@ I'm Aveen, a computer science undergraduate at Plymouth University. I'm interest
 
 ## Social 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AveenFernando)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aveen-fernando-225a7618b/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AveenFernando)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aveen-fernando-225a7618b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/epicgames.svg' alt='epicgames' height='40'>](https://dev.epicgames.com/community/profile/nBmw9/Acoustic_Juan#snippets)  
 
 ## Skills
 
