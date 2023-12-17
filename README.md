@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Aveen, a computer science undergraduate at Plymouth University. I'm interested in game design and C++ programming, and I'm currently learning the basics of both. I don't have any projects to showcase yet, but I'm working hard to improve my skills and create something awesome in the future. Feel free to follow me or reach out to me if you want to chat or collaborate on anything related to game development.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AveenFernando)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AveenFernando/AveenFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
