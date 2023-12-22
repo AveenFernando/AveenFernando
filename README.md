@@ -25,6 +25,6 @@ I'm Aveen, a computer science undergraduate at Plymouth University. I'm interest
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AveenFernando)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AveenFernando&show_icons=true&count_private=true)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Aveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AveenFernando&show_icons=true&theme=tokyonight)
 
 
