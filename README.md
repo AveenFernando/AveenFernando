@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=AveenFernando&label=Profile%20views&color=blueviolet&style=flat" alt="Aveen"/> 
+</p>
+
 ### Hi there 👋, Aveen Fernando
 #### Fellow Video Game Design and Development Enthusiast 🎮
 ![Fellow Video Game Design and Development Enthusiast 🎮](https://ue-cdn.artstation.com/imgproxy/U78DxAXfaicpJ_klSE00ON5mQoyYv-TET3XbisCsQ4I/filename:3.jpg/resizing_type:fit/width:1920/height:1080/aHR0cHM6Ly9kMWl2N2RiNDR5aGd4bi5jbG91ZGZyb250Lm5ldC9iYWNrZ3JvdW5kcy82NDk0OTVlNS02MjM3LTRmMDQtYjllOC0wNzg4YTM0Zjc0ZGMvMy5qcGc)
